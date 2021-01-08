@@ -1,0 +1,61 @@
+html,body,#app{
+    height: 100%;
+}
+
+.ft12{
+    font-size: 12px;
+}
+.ft14{
+    font-size: 14px;
+}
+.ft16{
+    font-size: 16px;
+}
+.ft18{
+    font-size: 18px;
+}
+.ft20{
+    font-size: 20px;
+}
+.cfff{
+    color: #fff;
+}
+.c000{
+    color: #000;
+}
+.c808{
+    color: #808080;
+}
+.cred{
+    color: red;
+}
+.bgfff{
+    background: #fff;
+}
+.bg000{
+    background: #000;
+}
+.bgf5f{
+    background: #f5f5f5;
+}
+.bgred{
+    background: red;
+}
+.fbold{
+    font-weight: bold;
+}
+.tcenter{
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+.fcenter{
+    align-items: center;
+}
+.fbetween{
+    justify-content: space-between;
+}
+.mt10{
+    margin-top: 10px;
+}
